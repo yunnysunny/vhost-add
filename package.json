@@ -1,0 +1,24 @@
+{
+  "name": "vhost-add",
+  "version": "0.1.0",
+  "description": ".",
+  "main": "bin/vhost-add.js",
+  "bin": {
+    "vhost-add": "bin/vhost-add.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yunnysunny/vhost-add.git"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yunnysunny",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.20.0"
+  }
+}
